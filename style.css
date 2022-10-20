@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+body{
+    background: linear-gradient(110deg, #926EDB, #fce434);
+}
+
+.button{
+    color: black;
+    background-color: lightgoldenrodyellow;
+    border: 3px solid black;
+    text-decoration: none;
+    position: relative;
+    top: 40px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.button_red{
+    color: black;
+    background-color: red;
+    border: 3px solid black;
+    line-height: 2;
+    border-radius: 20px;
+    display: block; 
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    margin: 0px 1px 1px 1px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.button_blue{
+    color: black;
+    background-color: blue;
+    border: 3px solid black;
+    line-height: 2;
+    border-radius: 20px;
+    display: block;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    margin: 0px 1px 1px 1px;
+    text-align: center;
+    text-decoration: none;   
+}
+
+.button_green{
+    color: black;
+    background-color: green;
+    border: 3px solid black;
+    line-height: 2;
+    border-radius: 20px;
+    display: block;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    margin: 0px 1px 1px 1px;
+    text-align: center;
+    text-decoration: none;
+ }
+
+ .button_yellow{
+    color: black;
+    background-color: yellow;
+    border: 3px solid black;
+    line-height: 2;
+    border-radius: 20px;
+    display: block;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    margin: 0px 1px 1px 1px;
+    text-align: center;
+    text-decoration: none;
+ }
+ 
+ .button_purple{
+    color: black;
+    background-color: purple;
+    border: 3px solid black;
+    line-height: 2;
+    border-radius: 20px;
+    display: block;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    margin: 0px 1px 1px 1px;
+    text-align: center;
+    text-decoration: none;
+ }
+
+.button:hover{
+    color: #F70841;
+    background-color: yellow;
+    border: 3px solid red;
+    text-decoration: none;
+}
+
+.button_red:hover{
+    color: red;
+    background-color: black;
+}
+
+.button_blue:hover{
+    color: blue;
+    background-color: black;
+}
+
+.button_green:hover{
+    color: green;
+    background-color: black;
+}
+
+.button_yellow:hover{
+    color: yellow;
+    background-color: black;
+}
+
+.button_purple:hover{
+    color: purple;
+    background-color: black;
+}
